@@ -4,7 +4,7 @@
 --
 -- Create Date: 01/30/2019 02:43:29 AM
 -- Design Name:
--- Module Name: cmpen296TopLvl - Behavioral
+-- Module Name: TopLvl - Behavioral
 -- Project Name:
 -- Target Devices:
 -- Tool Versions:
